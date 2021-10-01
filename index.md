@@ -2,4 +2,6 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+# stay away from my blog
+
+You'll never find it.
