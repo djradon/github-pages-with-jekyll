@@ -1,0 +1,2 @@
+- learn in public
+- don't spend all your productive time on meta-productivity
