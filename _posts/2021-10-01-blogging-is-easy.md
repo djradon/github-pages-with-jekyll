@@ -1,6 +1,6 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "Go away!"
+date: 2021-10-01
 ---
 
 - learn in public
